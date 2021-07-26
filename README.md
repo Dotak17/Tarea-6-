@@ -12,6 +12,16 @@
 
 3. MARCO TEORICO
 
+
+CAPITULO 12
+
+Parte b 
+
+![](https://user-images.githubusercontent.com/84998013/127071750-27b48daf-6dd6-45f2-8119-6497b1c2c516.png)
+
+![](https://user-images.githubusercontent.com/84998013/127071837-3b1f9e7d-8fa6-4139-bce1-8d742d8f8aef.png)
+
+
 4. RESOLUCION DE PROBLEMAS
 
 5. VIDEO
