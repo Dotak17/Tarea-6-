@@ -81,7 +81,10 @@ CAPITULO 12
 
 6. CONCLUSIONES
 
-Luego de haber revisado el capítulo 12 se puede decir que la mayoría de dispositivos  dependen del magnetismo y que el magnetismo se refiere a la fuerza que actúa entre los imanes y los materiales magnéticos al igual de la estrecha relación que tienen las cantidades eléctricas y magnéticas.
+- Segun como ha avanzado los temas que se tratan en el libro de Robbins & Miller la complejidad del uso de los capacitores aumenta, sus funciones y caracteristicas hacen que el analisis de circuitos de resistencias aprendidos en los anteriores repositorios sean fundamentales para la aplicacion de estes nuevos circuitos con nuevas funcionalidades
+
+- Luego de haber revisado el capítulo 12 se puede decir que la mayoría de dispositivos  dependen del magnetismo y que el magnetismo se refiere a la fuerza que actúa entre los imanes y los materiales magnéticos al igual de la estrecha relación que tienen las cantidades eléctricas y magnéticas.
+
 
 7. BIBLIOGRAFIA
 
