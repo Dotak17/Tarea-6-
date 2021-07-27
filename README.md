@@ -79,6 +79,8 @@ CAPITULO 12
 
 5. VIDEO
 
+https://www.youtube.com/watch?v=jZHqXqreKGs
+
 6. CONCLUSIONES
 
 - Segun como ha avanzado los temas que se tratan en el libro de Robbins & Miller la complejidad del uso de los capacitores aumenta, sus funciones y caracteristicas hacen que el analisis de circuitos de resistencias aprendidos en los anteriores repositorios sean fundamentales para la aplicacion de estes nuevos circuitos con nuevas funcionalidades
