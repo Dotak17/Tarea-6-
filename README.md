@@ -17,9 +17,8 @@
 
 3. MARCO TEORICO
 
-
-
 capitulo 12
+
 
 ![](https://user-images.githubusercontent.com/84998005/127069818-b6ddc9f0-b3c9-4c17-a03f-de7ba068fb97.png)
 
@@ -30,6 +29,7 @@ capitulo 12
 ![](https://user-images.githubusercontent.com/84998013/127084288-80e0b64f-55c3-4644-be99-9e2dcb42884c.png)
 
 4. RESOLUCION DE PROBLEMAS
+
 CAPITULO 11
 
 ![](https://user-images.githubusercontent.com/84998013/127088118-3bae0bb9-1033-4b7a-bbfb-dc4ee875af49.png)
@@ -41,6 +41,17 @@ CAPITULO 11
 ![](https://user-images.githubusercontent.com/84998013/127088312-cb663907-8dab-453f-9355-cdbf421e2347.png)
 
 ![](https://user-images.githubusercontent.com/84998013/127088415-4659fd4b-cc13-4e5f-821f-afa2bcdbf93b.png)
+
+CAPITULO 12
+
+![](https://user-images.githubusercontent.com/84998013/127088527-c384cc8b-f52a-42a5-aa4f-ff2a47fdc8c4.png)
+
+![](https://user-images.githubusercontent.com/84998013/127088692-198f080e-2325-4bcb-b467-be766f618cba.png)
+
+![](https://user-images.githubusercontent.com/84998013/127088745-0ff880ae-5865-4bad-86d8-52dd5653faf7.png)
+
+![](https://user-images.githubusercontent.com/84998013/127088800-0d2d7d81-51f0-4adc-b2a9-2ed5ab910d8b.png)
+
 5. VIDEO
 
 6. CONCLUSIONES
