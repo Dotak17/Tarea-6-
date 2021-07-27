@@ -43,6 +43,12 @@ Capitulo 12
 
 CAPITULO 11
 
+![](https://user-images.githubusercontent.com/84998005/127100057-ad053c19-c22a-4b8c-89d2-673f704d1265.png)
+
+![](https://user-images.githubusercontent.com/84998005/127100051-318ed7b8-933a-4677-b701-5a2aa33897e4.png)
+
+![](https://user-images.githubusercontent.com/84998005/127100062-e3ecb7f4-e0d8-4c65-86bf-8227ad23415a.png)
+
 ![Tema 11 Ejercicio 1](https://user-images.githubusercontent.com/84397282/127098095-975f2b38-0129-413e-908a-959354315fac.jpg)
 ![Tema 11 Ejercicio 2](https://user-images.githubusercontent.com/84397282/127098097-4e9308ce-9f16-42b0-b902-fbad49742fe3.jpg)
 ![Tema 11 Ejercicio 3](https://user-images.githubusercontent.com/84397282/127098098-748daa20-2fef-4117-83f3-43f1c723274d.jpg)
