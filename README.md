@@ -25,7 +25,9 @@ capitulo 12
 
 ![](https://user-images.githubusercontent.com/84998005/127069823-ccb27a82-6d12-4e7e-861f-d1f8fa495c88.png)
 
+![](https://user-images.githubusercontent.com/84998013/127084251-b708190f-01f8-470c-95ad-f9e7459542c9.png)
 
+![](https://user-images.githubusercontent.com/84998013/127084288-80e0b64f-55c3-4644-be99-9e2dcb42884c.png)
 
 4. RESOLUCION DE PROBLEMAS
 
