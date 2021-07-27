@@ -43,6 +43,16 @@ Capitulo 12
 
 CAPITULO 11
 
+![Tema 11 Ejercicio 1](https://user-images.githubusercontent.com/84397282/127098095-975f2b38-0129-413e-908a-959354315fac.jpg)
+![Tema 11 Ejercicio 2](https://user-images.githubusercontent.com/84397282/127098097-4e9308ce-9f16-42b0-b902-fbad49742fe3.jpg)
+![Tema 11 Ejercicio 3](https://user-images.githubusercontent.com/84397282/127098098-748daa20-2fef-4117-83f3-43f1c723274d.jpg)
+![Tema 11 Ejercicio 4](https://user-images.githubusercontent.com/84397282/127098099-bfdad7a6-bf85-4914-ad29-f93dc06b6179.jpg)
+![Tema 11 Ejercicio 5](https://user-images.githubusercontent.com/84397282/127098100-0ebd793f-1eab-40a1-8a31-61ccdcf79921.jpg)
+![Tema 11 Ejercicio 6](https://user-images.githubusercontent.com/84397282/127098101-edde2294-3800-43ba-aeb4-8035a06aca2c.jpg)
+![Tema 11 Ejercicio 7](https://user-images.githubusercontent.com/84397282/127098103-6e4c63b6-03f7-4e61-814c-6660dbd6b8a3.jpg)
+![Tema 11 Ejercicio 9](https://user-images.githubusercontent.com/84397282/127098104-42502e4a-bfc8-4a87-a5dc-5f0c607976e0.jpg)
+
+
 ![](https://user-images.githubusercontent.com/84998013/127088118-3bae0bb9-1033-4b7a-bbfb-dc4ee875af49.png)
 
 ![](https://user-images.githubusercontent.com/84998013/127088223-4400c0fb-b3d1-48d7-89a8-1ba34d14ef5e.png)
