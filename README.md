@@ -56,4 +56,11 @@ CAPITULO 12
 
 6. CONCLUSIONES
 
+Luego de haber revisado el capítulo 12 se puede decir que la mayoría de dispositivos  dependen del magnetismo y que el magnetismo se refiere a la fuerza que actúa entre los imanes y los materiales magnéticos al igual de la estrecha relación que tienen las cantidades eléctricas y magnéticas.
+
 7. BIBLIOGRAFIA
+
+Robbins, A., & Miller, W. (2013). Circuit analysis:Theory and practice. USA.
+
+Boylestad, R. (2011). Introducción al análisis de circuitos. México: Pearson Education
+
