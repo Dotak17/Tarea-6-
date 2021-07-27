@@ -30,7 +30,17 @@ capitulo 12
 ![](https://user-images.githubusercontent.com/84998013/127084288-80e0b64f-55c3-4644-be99-9e2dcb42884c.png)
 
 4. RESOLUCION DE PROBLEMAS
+CAPITULO 11
 
+![](https://user-images.githubusercontent.com/84998013/127088118-3bae0bb9-1033-4b7a-bbfb-dc4ee875af49.png)
+
+![](https://user-images.githubusercontent.com/84998013/127088223-4400c0fb-b3d1-48d7-89a8-1ba34d14ef5e.png)
+
+![](https://user-images.githubusercontent.com/84998013/127088266-a769454b-6430-4c4a-bbc9-b7decdd89842.png)
+
+![](https://user-images.githubusercontent.com/84998013/127088312-cb663907-8dab-453f-9355-cdbf421e2347.png)
+
+![](https://user-images.githubusercontent.com/84998013/127088415-4659fd4b-cc13-4e5f-821f-afa2bcdbf93b.png)
 5. VIDEO
 
 6. CONCLUSIONES
