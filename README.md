@@ -65,6 +65,10 @@ CAPITULO 11
 
 CAPITULO 12
 
+![](https://user-images.githubusercontent.com/84397282/127098250-8bcfbe87-2c0c-436c-9b30-64b565da9965.jpg)
+![](https://user-images.githubusercontent.com/84397282/127098251-7520e65d-8b82-4ba3-86c6-1c77b1e7249d.jpg)
+![](https://user-images.githubusercontent.com/84397282/127098253-8e3c1278-dcaf-4342-9163-85368191351e.jpg)
+
 ![](https://user-images.githubusercontent.com/84998013/127088527-c384cc8b-f52a-42a5-aa4f-ff2a47fdc8c4.png)
 
 ![](https://user-images.githubusercontent.com/84998013/127088692-198f080e-2325-4bcb-b467-be766f618cba.png)
