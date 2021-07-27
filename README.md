@@ -19,6 +19,14 @@
 
 Capitulo 11
 
+![tema 11 mapa1](https://user-images.githubusercontent.com/84397282/127097923-61db904e-e75d-4043-9d16-fa2978959162.jpg)
+![tema 11 mapa2](https://user-images.githubusercontent.com/84397282/127097925-278c5e29-883f-4e2f-9b0f-1eef2594d2ee.jpg)
+![tema 11 mapa3](https://user-images.githubusercontent.com/84397282/127097926-5dec3262-56cd-4527-b1af-e23232fc03fe.jpg)
+![tema 11 mapa4](https://user-images.githubusercontent.com/84397282/127097931-e8634c5c-d443-43ea-98c5-7f870a890392.jpg)
+![tema 11 mapa5](https://user-images.githubusercontent.com/84397282/127097934-ddb0df6c-5cd7-4988-beb9-b5fcbe389d13.jpg)
+![tema 11 mapa6](https://user-images.githubusercontent.com/84397282/127097935-5267c2a9-649d-4d8a-9be8-20840591a13a.jpg)
+
+
 
 Capitulo 12
 
