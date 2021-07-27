@@ -17,7 +17,10 @@
 
 3. MARCO TEORICO
 
-capitulo 12
+Capitulo 11
+
+
+Capitulo 12
 
 
 ![](https://user-images.githubusercontent.com/84998005/127069818-b6ddc9f0-b3c9-4c17-a03f-de7ba068fb97.png)
