@@ -83,6 +83,15 @@ CAPITULO 12
 
 ![](https://user-images.githubusercontent.com/84998013/127088800-0d2d7d81-51f0-4adc-b2a9-2ed5ab910d8b.png)
 
+![](https://user-images.githubusercontent.com/84998005/127159295-d5d59f1f-af68-4c4d-b0f0-72e6b8c0cd5f.png)
+
+![](https://user-images.githubusercontent.com/84998005/127159288-eff13f38-193c-4e26-a278-88b3b955ac35.png)
+
+![](https://user-images.githubusercontent.com/84998005/127159281-6992bf11-d8d1-416a-b626-d6b8fd259d92.png)
+
+![](https://user-images.githubusercontent.com/84998005/127159298-07f249fc-f41c-4e5e-b66d-b56cc98ade47.png)
+
+
 5. VIDEO
 
 https://www.youtube.com/watch?v=jZHqXqreKGs
